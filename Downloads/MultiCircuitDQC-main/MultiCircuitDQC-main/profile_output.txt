@@ -1,0 +1,20 @@
+Sat Mar 22 02:59:56 2025    profile_results
+
+         3955957957 function calls (3953964706 primitive calls) in 1219.298 seconds
+
+   Ordered by: internal time
+   List reduced from 928 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+359016947  209.015    0.000  209.015    0.000 Point.py:6(distance)
+   140236  204.049    0.001  492.234    0.004 dp_alternate.py:114(average_node_classical_time)
+ 21207506   57.156    0.000  187.474    0.000 qChannel.py:77(get_residual_capacity)
+722040844   45.941    0.000   45.941    0.000 qNode.py:103(loc)
+   611019   45.049    0.000  466.944    0.001 dp_alternate.py:188(_dijkstra_time)
+  9506049   41.871    0.000   90.196    0.000 __init__.py:192(consolidate)
+ 42415012   33.298    0.000   67.295    0.000 qNode.py:94(remaining_capacity)
+  8093837   29.030    0.000   68.163    0.000 qGraph.py:33(add_edge)
+ 21337721   27.329    0.000   40.616    0.000 qChannel.py:97(max_channel_capacity)
+  5008300   26.930    0.000   39.172    0.000 max_flow.py:378(_calculate_node_used_capacity)
+
+

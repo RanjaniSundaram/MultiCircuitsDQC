@@ -1,0 +1,1001 @@
+Inputs: 0:Qbit, 1:Qbit, 2:Qbit, 3:Qbit, 4:Qbit, 5:Qbit, 6:Qbit, 7:Qbit, 8:Qbit, 9:Qbit
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+0]
+QGate["H"](4)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+3]
+QGate["H"](7)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+1]
+QGate["H"](0)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+1]
+QGate["H"](8)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+5]
+QGate["H"](3)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+0]
+QGate["H"](3)
+QGate["H"](5)
+QGate["H"](7)
+QGate["H"](7)
+QGate["H"](3)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+8]
+QGate["H"](4)
+QGate["H"](9)
+QGate["H"](7)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+8]
+QGate["H"](4)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+8]
+QGate["H"](7)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+4]
+QGate["H"](6)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+8]
+QGate["H"](4)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+7]
+QGate["H"](5)
+QGate["H"](1)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+4]
+QGate["H"](6)
+QGate["H"](4)
+QGate["H"](3)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+2]
+QGate["H"](4)
+QGate["H"](9)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+0]
+QGate["H"](8)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+8]
+QGate["H"](2)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+1]
+QGate["H"](8)
+QGate["H"](6)
+QGate["H"](4)
+QGate["H"](9)
+QGate["H"](8)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+0]
+QGate["H"](8)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+8]
+QGate["H"](4)
+QGate["H"](7)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+0]
+QGate["H"](5)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+5]
+QGate["H"](1)
+QGate["H"](2)
+QGate["H"](3)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+5]
+QGate["H"](0)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+4]
+QGate["H"](0)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+7]
+QGate["H"](5)
+QGate["H"](0)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+3]
+QGate["H"](4)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+1]
+QGate["H"](0)
+QGate["H"](6)
+QGate["H"](5)
+QGate["H"](5)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+3]
+QGate["H"](1)
+QGate["H"](7)
+QGate["H"](4)
+QGate["H"](4)
+QGate["H"](8)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+0]
+QGate["H"](3)
+QGate["H"](5)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+8]
+QGate["H"](4)
+QGate["H"](9)
+QGate["H"](7)
+QGate["H"](9)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+6]
+QGate["H"](5)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+5]
+QGate["H"](0)
+QGate["H"](5)
+QGate["H"](2)
+QGate["H"](2)
+QGate["H"](2)
+QGate["H"](9)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+1]
+QGate["H"](0)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+0]
+QGate["H"](5)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+5]
+QGate["H"](6)
+QGate["H"](7)
+QGate["H"](2)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+7]
+QGate["H"](6)
+QGate["H"](7)
+QGate["H"](6)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+1]
+QGate["H"](0)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+3]
+QGate["H"](0)
+QGate["H"](5)
+QGate["H"](4)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+7]
+QGate["H"](2)
+QGate["H"](1)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+7]
+QGate["H"](6)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+4]
+QGate["H"](2)
+QGate["H"](8)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+6]
+QGate["H"](4)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+4]
+QGate["H"](2)
+QGate["H"](8)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+2]
+QGate["H"](7)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+5]
+QGate["H"](2)
+QGate["H"](1)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+7]
+QGate["H"](6)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+4]
+QGate["H"](1)
+QGate["H"](5)
+QGate["H"](2)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+1]
+QGate["H"](6)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+1]
+QGate["H"](3)
+QGate["H"](3)
+QGate["H"](3)
+QGate["H"](0)
+QGate["H"](0)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+2]
+QGate["H"](3)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+3]
+QGate["H"](8)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+4]
+QGate["H"](3)
+QGate["H"](1)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+1]
+QGate["H"](3)
+QGate["H"](5)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+5]
+QGate["H"](8)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+5]
+QGate["H"](6)
+QGate["H"](5)
+QGate["H"](2)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+0]
+QGate["H"](2)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+5]
+QGate["H"](2)
+QGate["H"](1)
+QGate["H"](8)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+1]
+QGate["H"](8)
+QGate["H"](7)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+3]
+QGate["H"](7)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+7]
+QGate["H"](1)
+QGate["H"](7)
+QGate["H"](8)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+8]
+QGate["H"](1)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+8]
+QGate["H"](4)
+QGate["H"](1)
+QGate["H"](5)
+QGate["H"](5)
+QGate["H"](0)
+QGate["H"](6)
+QGate["H"](4)
+QGate["H"](3)
+QGate["H"](2)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+0]
+QGate["H"](4)
+QGate["H"](0)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+3]
+QGate["H"](6)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+5]
+QGate["H"](0)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+0]
+QGate["H"](7)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+8]
+QGate["H"](3)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+0]
+QGate["H"](8)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+8]
+QGate["H"](5)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+4]
+QGate["H"](6)
+QGate["H"](5)
+QGate["H"](1)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+2]
+QGate["H"](3)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+6]
+QGate["H"](3)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+6]
+QGate["H"](0)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+5]
+QGate["H"](0)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+7]
+QGate["H"](4)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+1]
+QGate["H"](3)
+QGate["H"](7)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+1]
+QGate["H"](3)
+QGate["H"](7)
+QGate["H"](7)
+QGate["H"](7)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+0]
+QGate["H"](4)
+QGate["H"](8)
+QGate["H"](0)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+7]
+QGate["H"](1)
+QGate["H"](9)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+4]
+QGate["H"](7)
+QGate["H"](4)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+4]
+QGate["H"](1)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+3]
+QGate["H"](6)
+QGate["H"](2)
+QGate["H"](8)
+QGate["H"](5)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+7]
+QGate["H"](3)
+QGate["H"](3)
+QGate["H"](3)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+1]
+QGate["H"](7)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+0]
+QGate["H"](4)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+0]
+QGate["H"](4)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+1]
+QGate["H"](6)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+1]
+QGate["H"](7)
+QGate["H"](3)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+3]
+QGate["H"](8)
+QGate["H"](7)
+QGate["H"](2)
+QGate["H"](6)
+QGate["H"](5)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+4]
+QGate["H"](3)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+0]
+QGate["H"](5)
+QGate["H"](7)
+QGate["H"](5)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+4]
+QGate["H"](1)
+QGate["H"](4)
+QGate["H"](3)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+3]
+QGate["H"](5)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+8]
+QGate["H"](1)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+3]
+QGate["H"](4)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+1]
+QGate["H"](0)
+QGate["H"](5)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+8]
+QGate["H"](7)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+4]
+QGate["H"](7)
+QGate["H"](0)
+QGate["H"](3)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+0]
+QGate["H"](6)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+4]
+QGate["H"](3)
+QGate["H"](3)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+1]
+QGate["H"](5)
+QGate["H"](1)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+2]
+QGate["H"](0)
+QGate["H"](7)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+6]
+QGate["H"](3)
+QGate["H"](1)
+QGate["H"](2)
+QGate["H"](4)
+QGate["H"](1)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+1]
+QGate["H"](6)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+8]
+QGate["H"](4)
+QGate["H"](1)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+1]
+QGate["H"](0)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+5]
+QGate["H"](6)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+5]
+QGate["H"](2)
+QGate["H"](1)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+0]
+QGate["H"](1)
+QGate["H"](7)
+QGate["H"](5)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+7]
+QGate["H"](8)
+QGate["H"](6)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+6]
+QGate["H"](7)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+1]
+QGate["H"](2)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+0]
+QGate["H"](7)
+QGate["H"](6)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+2]
+QGate["H"](1)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+3]
+QGate["H"](7)
+QGate["H"](9)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+2]
+QGate["H"](3)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+3]
+QGate["H"](0)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+5]
+QGate["H"](6)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+2]
+QGate["H"](3)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+0]
+QGate["H"](5)
+QGate["H"](7)
+QGate["H"](8)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+1]
+QGate["H"](5)
+QGate["H"](9)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+3]
+QGate["H"](2)
+QGate["H"](7)
+QGate["H"](1)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+0]
+QGate["H"](3)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+3]
+QGate["H"](6)
+QGate["H"](6)
+QGate["H"](4)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+7]
+QGate["H"](5)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+5]
+QGate["H"](6)
+QGate["H"](7)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+1]
+QGate["H"](6)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+4]
+QGate["H"](7)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+8]
+QGate["H"](1)
+QGate["H"](2)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+2]
+QGate["H"](7)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+2]
+QGate["H"](8)
+QGate["H"](9)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+7]
+QGate["H"](8)
+QGate["H"](4)
+QGate["H"](2)
+QGate["H"](6)
+QGate["H"](6)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+3]
+QGate["H"](6)
+QGate["H"](6)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+3]
+QGate["H"](4)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+1]
+QGate["H"](7)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+1]
+QGate["H"](8)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+5]
+QGate["H"](4)
+QGate["H"](4)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+6]
+QGate["H"](2)
+QGate["H"](0)
+QGate["H"](0)
+QGate["H"](5)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+4]
+QGate["H"](1)
+QGate["H"](1)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+0]
+QGate["H"](4)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+6]
+QGate["H"](3)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+5]
+QGate["H"](6)
+QGate["H"](6)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+1]
+QGate["H"](6)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+0]
+QGate["H"](8)
+QGate["H"](2)
+QGate["H"](5)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+7]
+QGate["H"](0)
+QGate["H"](5)
+QGate["H"](7)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+5]
+QGate["H"](3)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+1]
+QGate["H"](3)
+QGate["H"](0)
+QGate["H"](3)
+QGate["H"](1)
+QGate["H"](6)
+QGate["H"](8)
+QGate["H"](5)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+5]
+QGate["H"](7)
+QGate["H"](2)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+7]
+QGate["H"](0)
+QGate["H"](3)
+QGate["H"](8)
+QGate["H"](8)
+QGate["H"](8)
+QGate["H"](4)
+QGate["H"](6)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+3]
+QGate["H"](5)
+QGate["H"](7)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+2]
+QGate["H"](4)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+7]
+QGate["H"](0)
+QGate["H"](5)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+6]
+QGate["H"](2)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+0]
+QGate["H"](7)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+2]
+QGate["H"](8)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+4]
+QGate["H"](3)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+3]
+QGate["H"](5)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+1]
+QGate["H"](0)
+QGate["H"](7)
+QGate["H"](9)
+QGate["H"](9)
+QGate["H"](7)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+5]
+QGate["H"](6)
+QGate["H"](8)
+QGate["H"](7)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+2]
+QGate["H"](6)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+3]
+QGate["H"](1)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+2]
+QGate["H"](3)
+QGate["H"](8)
+QGate["H"](4)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+2]
+QGate["H"](7)
+QGate["H"](8)
+QGate["H"](9)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+6]
+QGate["H"](4)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+1]
+QGate["H"](2)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+1]
+QGate["H"](6)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+5]
+QGate["H"](8)
+QGate["H"](0)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+3]
+QGate["H"](5)
+QGate["H"](5)
+QGate["H"](6)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+0]
+QGate["H"](1)
+QGate["H"](5)
+QGate["H"](6)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+7]
+QGate["H"](1)
+QGate["H"](1)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+7]
+QGate["H"](6)
+QGate["H"](7)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+5]
+QGate["H"](8)
+QGate["H"](2)
+QGate["H"](1)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+4]
+QGate["H"](5)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+7]
+QGate["H"](2)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+0]
+QGate["H"](1)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+3]
+QGate["H"](8)
+QGate["H"](5)
+QGate["H"](8)
+QGate["H"](4)
+QGate["H"](0)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+3]
+QGate["H"](0)
+QGate["H"](9)
+QGate["H"](7)
+QGate["H"](7)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+5]
+QGate["H"](3)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+4]
+QGate["H"](6)
+QGate["H"](1)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+8]
+QGate["H"](1)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+2]
+QGate["H"](0)
+QGate["H"](6)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+2]
+QGate["H"](6)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+3]
+QGate["H"](0)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+1]
+QGate["H"](8)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+0]
+QGate["H"](6)
+QGate["H"](8)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+4]
+QGate["H"](5)
+QGate["H"](6)
+QGate["H"](0)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+5]
+QGate["H"](7)
+QGate["H"](1)
+QGate["H"](7)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+0]
+QGate["H"](7)
+QGate["H"](9)
+QGate["H"](2)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+6]
+QGate["H"](2)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+8]
+QGate["H"](1)
+QGate["H"](2)
+QGate["H"](1)
+QGate["H"](3)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+0]
+QGate["H"](6)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+7]
+QGate["H"](6)
+QGate["H"](8)
+QGate["H"](9)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+1]
+QGate["H"](0)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+5]
+QGate["H"](0)
+QGate["H"](9)
+QGate["H"](7)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+6]
+QGate["H"](1)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+6]
+QGate["H"](3)
+QGate["H"](3)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+8]
+QGate["H"](0)
+QGate["H"](3)
+QGate["H"](5)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+5]
+QGate["H"](8)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+1]
+QGate["H"](5)
+QGate["H"](2)
+QGate["H"](5)
+QGate["H"](9)
+QGate["H"](5)
+QGate["H"](1)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+5]
+QGate["H"](3)
+QGate["H"](2)
+QGate["H"](2)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+0]
+QGate["H"](6)
+QGate["H"](1)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+2]
+QGate["H"](5)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+7]
+QGate["H"](0)
+QGate["H"](9)
+QGate["H"](5)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+8]
+QGate["H"](7)
+QGate["H"](4)
+QGate["H"](4)
+QGate["H"](9)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+4]
+QGate["H"](0)
+QGate["H"](8)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+1]
+QGate["H"](7)
+QGate["H"](7)
+QGate["H"](8)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+2]
+QGate["H"](6)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+5]
+QGate["H"](3)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+4]
+QGate["H"](8)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+7]
+QGate["H"](0)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+1]
+QGate["H"](4)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+7]
+QGate["H"](5)
+QGate["H"](7)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+6]
+QGate["H"](7)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+5]
+QGate["H"](8)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+2]
+QGate["H"](7)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+8]
+QGate["H"](0)
+QGate["H"](4)
+QGate["H"](5)
+QGate["CZ"](5) with controls=[+6]
+QGate["H"](5)
+QGate["H"](3)
+QGate["H"](7)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+5]
+QGate["H"](6)
+QGate["H"](3)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+5]
+QGate["H"](6)
+QGate["H"](9)
+QGate["H"](4)
+QGate["H"](3)
+QGate["H"](6)
+QGate["H"](8)
+QGate["H"](6)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+1]
+QGate["H"](6)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+7]
+QGate["H"](3)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+3]
+QGate["H"](2)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+7]
+QGate["H"](2)
+QGate["H"](9)
+QGate["H"](3)
+QGate["H"](2)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+0]
+QGate["H"](6)
+QGate["H"](9)
+QGate["H"](8)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+2]
+QGate["H"](6)
+QGate["H"](5)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+4]
+QGate["H"](7)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+6]
+QGate["H"](3)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+4]
+QGate["H"](1)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+4]
+QGate["H"](6)
+QGate["H"](4)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+3]
+QGate["H"](4)
+QGate["H"](9)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+4]
+QGate["H"](2)
+QGate["H"](2)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+2]
+QGate["H"](3)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+2]
+QGate["H"](7)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+8]
+QGate["H"](7)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+3]
+QGate["H"](2)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+7]
+QGate["H"](2)
+QGate["H"](6)
+QGate["CZ"](6) with controls=[+3]
+QGate["H"](6)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+8]
+QGate["H"](1)
+QGate["H"](1)
+QGate["H"](1)
+QGate["H"](2)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+7]
+QGate["H"](8)
+QGate["H"](2)
+QGate["H"](6)
+QGate["H"](1)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+2]
+QGate["H"](4)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+6]
+QGate["H"](2)
+QGate["H"](8)
+QGate["CZ"](8) with controls=[+5]
+QGate["H"](8)
+QGate["H"](3)
+QGate["H"](7)
+QGate["H"](4)
+QGate["CZ"](4) with controls=[+7]
+QGate["H"](4)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+8]
+QGate["H"](7)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+6]
+QGate["H"](1)
+QGate["H"](2)
+QGate["CZ"](2) with controls=[+7]
+QGate["H"](2)
+QGate["H"](5)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+5]
+QGate["H"](7)
+QGate["H"](0)
+QGate["CZ"](0) with controls=[+6]
+QGate["H"](0)
+QGate["H"](4)
+QGate["H"](3)
+QGate["CZ"](3) with controls=[+1]
+QGate["H"](3)
+QGate["H"](7)
+QGate["CZ"](7) with controls=[+4]
+QGate["H"](7)
+QGate["H"](1)
+QGate["CZ"](1) with controls=[+8]
+QGate["H"](1)
+QGate["H"](9)
+QGate["H"](3)
+QGate["H"](2)
+QGate["H"](4)
+QGate["H"](7)
+QGate["H"](6)
+QGate["H"](1)
+QGate["H"](1)
+QGate["H"](1)
+QGate["H"](7)
